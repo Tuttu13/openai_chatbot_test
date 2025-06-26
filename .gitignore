@@ -4,3 +4,7 @@ env
 chroma_db
 
 _old
+
+rag_files
+
+.env.example
